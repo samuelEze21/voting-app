@@ -29,3 +29,6 @@ Thumbs.db
 # Editor directories and settings
 .vscode/
 .idea/
+
+
+.secret
